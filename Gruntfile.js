@@ -21,7 +21,7 @@ module.exports = function (grunt) {
 			}
 		},
 		jshint: {
-			files: ['hakatashi.js', 'src/*.js']
+			files: ['src/*.js']
 		}
 	});
 
