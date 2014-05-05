@@ -1,7 +1,7 @@
 hakatashi.js
 ============
 
-This library is innocent, white, and so very harmless utilities, which is just created for me. Like...
+This is innocent, white, and maybe so harmless utilities, which is just created for me. Like...
 
 ```
 > Math.randInt(1, 100)
