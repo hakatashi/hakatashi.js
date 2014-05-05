@@ -6,8 +6,8 @@ This is innocent, white, and maybe so harmless utilities, which is just created 
 ```
 > Math.randInt(1, 100)
 24
-> "Hello! ".repeat(5)
-'Hello! Hello! Hello! Hello! Hello! '
+> "Hello!".repeat(5)
+'Hello!Hello!Hello!Hello!Hello!'
 > [3, 1, 4, 1, 5, 9].remove(1)
 [ 3, 4, 5, 9 ]
 > (-100).mod(12)
