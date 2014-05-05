@@ -1,9 +1,9 @@
 Array.prototype.remove = function(item) {
-    for(var i = this.length; i--;) {
-        if(this[i] === item) {
-            this.splice(i, 1);
-        }
+	var index;
+	while ((index = this.indexOf(item)) !== -1) {
+		this.splice(index, 1);
     }
+	return this;
 };
 
 Array.prototype.unique = function() {
