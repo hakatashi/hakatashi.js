@@ -15,3 +15,7 @@ This library is innocent, white, and so very harmless utilities, which is just c
 ```
 
 Isn't it good, sir? :wink:
+
+# build
+
+Install node.js and `npm install -g grunt` and `git clone` and `npm install` and `grunt`.
