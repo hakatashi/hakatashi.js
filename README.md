@@ -3,7 +3,7 @@ hakatashi.js
 
 This is innocent, white, and maybe so harmless utilities, which is just created for me. Like...
 
-```
+```javascript
 > Math.randInt(1, 100)
 24
 > "Hello!".repeat(5)
