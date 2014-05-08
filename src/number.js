@@ -22,5 +22,5 @@ Number.prototype.pow = function (n) {
 Number.prototype.log = function (n) {
 	if (typeof n === 'undefined') n = Math.E;
 	if (n <= 0) return Number.NaN;
-	return Math.log(this) / Math.log();
+	return Math.log(this) / Math.log(n);
 };
