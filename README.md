@@ -16,10 +16,10 @@ This is innocent, white, and maybe so harmless utilities, which is just created 
 
 Isn't it good, sir? :wink:
 
-# build
+# Build
 
 Install node.js and `npm install -g grunt` and `git clone` and `npm install` and `grunt`.
 
-# document
+# Documentation
 
 :poop:
