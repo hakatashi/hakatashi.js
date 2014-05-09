@@ -20,6 +20,10 @@ Isn't it good, sir? :wink:
 
 Install node.js and `npm install -g grunt` and `git clone` and `npm install` and `grunt`.
 
+# Performance
+
+:poop:
+
 # Documentation
 
 :poop:
