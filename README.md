@@ -1,7 +1,8 @@
 hakatashi.js
 ============
 
-This is innocent, white, and maybe so harmless utilities, which is just created for me. Like...
+This is an innocent library written only for me, which extends native objects like [sugar.js](http://sugarjs.com/),
+but never in sugar. It looks like...
 
 ```javascript
 > Math.randInt(1, 100)
@@ -14,11 +15,14 @@ This is innocent, white, and maybe so harmless utilities, which is just created 
 8
 ```
 
-Isn't it good, sir? :wink:
+Uhhh... not so bad? :wink:
 
 # Build
 
-Install node.js and `npm install -g grunt` and `git clone` and `npm install` and `grunt`.
+```
+npm install
+grunt
+```
 
 # Performance
 
