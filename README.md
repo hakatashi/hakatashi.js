@@ -1,6 +1,8 @@
 hakatashi.js
 ============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hakatashi/hakatashi.js.svg)](https://greenkeeper.io/)
+
 This is an innocent library written only for me, which extends native objects like [sugar.js](http://sugarjs.com/),
 but never in sugar. It looks like...
 
